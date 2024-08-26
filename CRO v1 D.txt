@@ -1,0 +1,2695 @@
+[CustomCards]
+	[    {
+	        "name": "Expanse Sentry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expanse Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Recurring Rites",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Recurring Rites.png"
+	        }
+	    },
+	    {
+	        "name": "On the Horizon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/On the Horizon.png"
+	        }
+	    },
+	    {
+	        "name": "Rites of the Bloodless",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Rites of the Bloodless.png"
+	        }
+	    },
+	    {
+	        "name": "Trailblazer's Boots",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Trailblazer's Boots.png"
+	        }
+	    },
+	    {
+	        "name": "Thawing Citadel",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Thawing Citadel.png"
+	        }
+	    },
+	    {
+	        "name": "Temporal Rift",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Temporal Rift.png"
+	        }
+	    },
+	    {
+	        "name": "Quiet Reflection",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Quiet Reflection.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi's Revelation",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Teferi's Revelation.png"
+	        }
+	    },
+	    {
+	        "name": "Harness the Worldsoul",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Harness the Worldsoul.png"
+	        }
+	    },
+	    {
+	        "name": "Branching Paths",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Branching Paths.png"
+	        }
+	    },
+	    {
+	        "name": "Disrupt Causality",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Disrupt Causality.png"
+	        }
+	    },
+	    {
+	        "name": "Unexpected Encounter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unexpected Encounter.png"
+	        }
+	    },
+	    {
+	        "name": "Planeswalker's Sacrifice",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Planeswalker's Sacrifice.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi, Fateweaver",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Legendary Planeswalker — Teferi ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Teferi, Fateweaver.png"
+	        }
+	    },
+	    {
+	        "name": "Glimpse the Ending",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Glimpse the Ending.png"
+	        }
+	    },
+	    {
+	        "name": "Sakkath, Apocalypse Sire",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Legendary Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Sakkath, Apocalypse Sire.png"
+	        }
+	    },
+	    {
+	        "name": "Stand Alone",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Stand Alone.png"
+	        }
+	    },
+	    {
+	        "name": "Ageless Tome",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ageless Tome.png"
+	        }
+	    },
+	    {
+	        "name": "Alisa, Curious Historian",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Legendary Creature — Bird Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Alisa, Curious Historian.png"
+	        }
+	    },
+	    {
+	        "name": "Disparate Rally",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Disparate Rally.png"
+	        }
+	    },
+	    {
+	        "name": "Farehn, Lost Leader",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Planeswalker — Farehn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farehn, Lost Leader.png"
+	        }
+	    },
+	    {
+	        "name": "Harbinger of Tomorrow",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}{R}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Harbinger of Tomorrow.png"
+	        }
+	    },
+	    {
+	        "name": "Hayden, Starweaver",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Legendary Planeswalker — Hayden ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Hayden, Starweaver.png"
+	        }
+	    },
+	    {
+	        "name": "Enigma Engine",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Enigma Engine.png"
+	        }
+	    },
+	    {
+	        "name": "Oris the Fleeting",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Oris ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Oris the Fleeting.png"
+	        }
+	    },
+	    {
+	        "name": "Ruinous Horseriders",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Skeleton Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ruinous Horseriders.png"
+	        }
+	    },
+	    {
+	        "name": "Camp Leader",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Camp Leader.png"
+	        }
+	    },
+	    {
+	        "name": "Clean Slate",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Clean Slate.png"
+	        }
+	    },
+	    {
+	        "name": "Dragonhunter Sentinels",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Dragonhunter Sentinels.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten King",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Forgotten King.png"
+	        }
+	    },
+	    {
+	        "name": "Nimble Mountaineer",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Nimble Mountaineer.png"
+	        }
+	    },
+	    {
+	        "name": "Scouting Party",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scouting Party.png"
+	        }
+	    },
+	    {
+	        "name": "Triumph, Prophet of Dawn",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Legendary Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Triumph, Prophet of Dawn.png"
+	        }
+	    },
+	    {
+	        "name": "Wisdom of Age",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Wisdom of Age.png"
+	        }
+	    },
+	    {
+	        "name": "Arbiter of the Ageless",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Arbiter of the Ageless.png"
+	        }
+	    },
+	    {
+	        "name": "Consult the Past",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Consult the Past.png"
+	        }
+	    },
+	    {
+	        "name": "Council Archmage",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Council Warden",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Epoch, Prophet of Forever",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Epoch, Prophet of Forever.png"
+	        }
+	    },
+	    {
+	        "name": "Eternity",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Eternity.png"
+	        }
+	    },
+	    {
+	        "name": "Ad Infinitum",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ad Infinitum.png"
+	        }
+	    },
+	    {
+	        "name": "Seek the Stars",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Seek the Stars.png"
+	        }
+	    },
+	    {
+	        "name": "Tale's End",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Tale's End.png"
+	        }
+	    },
+	    {
+	        "name": "Cutthroat Explorer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cutthroat Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Entropy, Prophet of Dread",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Entropy, Prophet of Dread.png"
+	        }
+	    },
+	    {
+	        "name": "Existential Dread",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Existential Dread.png"
+	        }
+	    },
+	    {
+	        "name": "Expanse Outlaw",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Bird Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expanse Outlaw.png"
+	        }
+	    },
+	    {
+	        "name": "Lost Legacy",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lost Legacy.png"
+	        }
+	    },
+	    {
+	        "name": "Unyielding Bloodseekers",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unyielding Bloodseekers.png"
+	        }
+	    },
+	    {
+	        "name": "Vyth, First to Hunger",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Vampire Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Vyth, First to Hunger.png"
+	        }
+	    },
+	    {
+	        "name": "Beckon Disaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Beckon Disaster.png"
+	        }
+	    },
+	    {
+	        "name": "Carnage, Prophet of Ruin",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Carnage, Prophet of Ruin.png"
+	        }
+	    },
+	    {
+	        "name": "Emergent Entities",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Emergent Entities.png"
+	        }
+	    },
+	    {
+	        "name": "False Idol",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/False Idol.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Legend",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Hero of Legend.png"
+	        }
+	    },
+	    {
+	        "name": "Start Again",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Start Again.png"
+	        }
+	    },
+	    {
+	        "name": "Unraveling Mage",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unraveling Mage.png"
+	        }
+	    },
+	    {
+	        "name": "Accelerated Regrowth",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Accelerated Regrowth.png"
+	        }
+	    },
+	    {
+	        "name": "Cunning Geomancer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cunning Geomancer.png"
+	        }
+	    },
+	    {
+	        "name": "Echoes of the Past",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Echoes of the Past.png"
+	        }
+	    },
+	    {
+	        "name": "Existence, Prophet of Vigor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Existence, Prophet of Vigor.png"
+	        }
+	    },
+	    {
+	        "name": "Lumbering Titan",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Treefolk Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lumbering Titan.png"
+	        }
+	    },
+	    {
+	        "name": "Territorial Warden",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Fungus Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Territorial Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Wandering Sureshot",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Wandering Sureshot.png"
+	        }
+	    },
+	    {
+	        "name": "Arevan, World Archivist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Legendary Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Arevan, World Archivist.png"
+	        }
+	    },
+	    {
+	        "name": "Arron of the Expanse",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Arron of the Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Elethar, Time's End",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{B}",
+	        "type": "Legendary Creature — Skeleton Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Elethar, Time's End.png"
+	        }
+	    },
+	    {
+	        "name": "High Councilor Lorick",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/High Councilor Lorick.png"
+	        }
+	    },
+	    {
+	        "name": "Lanret, Eternal",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Creature — Elder Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lanret, Eternal.png"
+	        }
+	    },
+	    {
+	        "name": "Savit, Fractured Genius",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Savit, Fractured Genius.png"
+	        }
+	    },
+	    {
+	        "name": "Tetrak, the Everlasting",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Legendary Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Tetrak, the Everlasting.png"
+	        }
+	    },
+	    {
+	        "name": "Tyren, Herald of the End",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Legendary Creature — Skeleton Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Tyren, Herald of the End.png"
+	        }
+	    },
+	    {
+	        "name": "Uric, Eternal Champion",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Legendary Creature — Spirit Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Uric, Eternal Champion.png"
+	        }
+	    },
+	    {
+	        "name": "Eternal Enforcers",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Eternal Enforcers.png"
+	        }
+	    },
+	    {
+	        "name": "Fracturing Worldsoul",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Fracturing Worldsoul.png"
+	        }
+	    },
+	    {
+	        "name": "Void Sifter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Void Sifter.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Cavern",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Cavern.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Depths",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Depths.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Field",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Field.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Grotto",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Grotto.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Lake",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Lake.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Mire",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Mire.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Path",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Path.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Peaks",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Peaks.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Stream",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Stream.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Temple",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cryptic Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Relin, Council's Voice",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Creature — Bird Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Relin, Council's Voice.png"
+	        }
+	    },
+	    {
+	        "name": "Rookie Explorer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Rookie Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Council Faithmender",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Faithmender.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnbreak Voyager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Dawnbreak Voyager.png"
+	        }
+	    },
+	    {
+	        "name": "Expanse Interceptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expanse Interceptor.png"
+	        }
+	    },
+	    {
+	        "name": "Owlin Guide",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Owlin Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Erase from History",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Erase from History.png"
+	        }
+	    },
+	    {
+	        "name": "Frigid Persistence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Frigid Persistence.png"
+	        }
+	    },
+	    {
+	        "name": "Owlin Historian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bird Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Owlin Historian.png"
+	        }
+	    },
+	    {
+	        "name": "Strig Sentinel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Strig Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Tap Into Time",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Tap Into Time.png"
+	        }
+	    },
+	    {
+	        "name": "Wondrous Discovery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Wondrous Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "Hayden's Dismissal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Hayden's Dismissal.png"
+	        }
+	    },
+	    {
+	        "name": "Return to Aether",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Return to Aether.png"
+	        }
+	    },
+	    {
+	        "name": "Savit's Thesis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Savit's Thesis.png"
+	        }
+	    },
+	    {
+	        "name": "Stranded Strig",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Stranded Strig.png"
+	        }
+	    },
+	    {
+	        "name": "Memories of Eternity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Memories of Eternity.png"
+	        }
+	    },
+	    {
+	        "name": "Shifty Recruit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Shifty Recruit.png"
+	        }
+	    },
+	    {
+	        "name": "Seer of Lost Omens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Seer of Lost Omens.png"
+	        }
+	    },
+	    {
+	        "name": "Lumbering Void",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lumbering Void.png"
+	        }
+	    },
+	    {
+	        "name": "Harness the Pattern",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Harness the Pattern.png"
+	        }
+	    },
+	    {
+	        "name": "Glimpse of Fate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Glimpse of Fate.png"
+	        }
+	    },
+	    {
+	        "name": "Cunning Augur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cunning Augur.png"
+	        }
+	    },
+	    {
+	        "name": "Chronurgist Adept",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Chronurgist Adept.png"
+	        }
+	    },
+	    {
+	        "name": "Calculating Strig",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Calculating Strig.png"
+	        }
+	    },
+	    {
+	        "name": "Agnostophobia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Agnostophobia.png"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Broker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Abyssal Broker.png"
+	        }
+	    },
+	    {
+	        "name": "Assembled Ancestry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Assembled Ancestry.png"
+	        }
+	    },
+	    {
+	        "name": "Butcher of the Lost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Butcher of the Lost.png"
+	        }
+	    },
+	    {
+	        "name": "Council Fateshifter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Fateshifter.png"
+	        }
+	    },
+	    {
+	        "name": "Emerge from the Expanse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Emerge from the Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Crypts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Endless Crypts.png"
+	        }
+	    },
+	    {
+	        "name": "Eternal Heiress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Eternal Heiress.png"
+	        }
+	    },
+	    {
+	        "name": "Reduce to Nothing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Reduce to Nothing.png"
+	        }
+	    },
+	    {
+	        "name": "Rift Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Rift Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Scion of Entropy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scion of Entropy.png"
+	        }
+	    },
+	    {
+	        "name": "Towering Endbringer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Skeleton Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Towering Endbringer.png"
+	        }
+	    },
+	    {
+	        "name": "Tragedy of Time",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Tragedy of Time.png"
+	        }
+	    },
+	    {
+	        "name": "Ashen Oracle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ashen Oracle.png"
+	        }
+	    },
+	    {
+	        "name": "Bounding Predator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Bounding Predator.png"
+	        }
+	    },
+	    {
+	        "name": "Cataclysmic Progeny",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cataclysmic Progeny.png"
+	        }
+	    },
+	    {
+	        "name": "Cinder Strig",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Bird Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cinder Strig.png"
+	        }
+	    },
+	    {
+	        "name": "Converge on the Peak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Converge on the Peak.png"
+	        }
+	    },
+	    {
+	        "name": "In Sakkath's Wake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/In Sakkath's Wake.png"
+	        }
+	    },
+	    {
+	        "name": "Into the Beyond",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Into the Beyond.png"
+	        }
+	    },
+	    {
+	        "name": "Waylaid Historian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Waylaid Historian.png"
+	        }
+	    },
+	    {
+	        "name": "Magmatic Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Magmatic Dragon.png"
+	        }
+	    },
+	    {
+	        "name": "Molten Forebear",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Molten Forebear.png"
+	        }
+	    },
+	    {
+	        "name": "Treacherous Fate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Treacherous Fate.png"
+	        }
+	    },
+	    {
+	        "name": "Territorial Wurm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Territorial Wurm.png"
+	        }
+	    },
+	    {
+	        "name": "Against All Odds",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Against All Odds.png"
+	        }
+	    },
+	    {
+	        "name": "Desperate Survivalist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Desperate Survivalist.png"
+	        }
+	    },
+	    {
+	        "name": "Elvish Trailblazer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Elvish Trailblazer.png"
+	        }
+	    },
+	    {
+	        "name": "Expanse Escort",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expanse Escort.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Grovetender",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Dryad ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ancient Grovetender.png"
+	        }
+	    },
+	    {
+	        "name": "Flourishing Sentinels",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Flourishing Sentinels.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten Vanguard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Forgotten Vanguard.png"
+	        }
+	    },
+	    {
+	        "name": "Guardian of Ancient Groves",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Guardian of Ancient Groves.png"
+	        }
+	    },
+	    {
+	        "name": "Hunt the Horizon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Hunt the Horizon.png"
+	        }
+	    },
+	    {
+	        "name": "Natural Nexus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Natural Nexus.png"
+	        }
+	    },
+	    {
+	        "name": "Seek Tomorrow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Seek Tomorrow.png"
+	        }
+	    },
+	    {
+	        "name": "Unknowable Colossus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Giant Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unknowable Colossus.png"
+	        }
+	    },
+	    {
+	        "name": "Pull the Thread",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Pull the Thread.png"
+	        }
+	    },
+	    {
+	        "name": "Cloudblazer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cloudblazer.png"
+	        }
+	    },
+	    {
+	        "name": "Council's Machinations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council's Machinations.png"
+	        }
+	    },
+	    {
+	        "name": "Council Doomseer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Bird Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Doomseer.png"
+	        }
+	    },
+	    {
+	        "name": "Boundless Expanse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Boundless Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Farwatch Veteran",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farwatch Veteran.png"
+	        }
+	    },
+	    {
+	        "name": "Council Attendants",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Vampire Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Attendants.png"
+	        }
+	    },
+	    {
+	        "name": "Living Storm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Living Storm.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodline Historian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Vampire Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Bloodline Historian.png"
+	        }
+	    },
+	    {
+	        "name": "Master of Possibilities",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Master of Possibilities.png"
+	        }
+	    },
+	    {
+	        "name": "Wayward Guides",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Wayward Guides.png"
+	        }
+	    },
+	    {
+	        "name": "Lost Gateway",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lost Gateway.png"
+	        }
+	    },
+	    {
+	        "name": "Ageless Goliath",
+	        "rarity": "uncommon",
+	        "mana_cost": "{8}",
+	        "type": "Artifact Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ageless Goliath.png"
+	        }
+	    },
+	    {
+	        "name": "Clockwork Weave",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Clockwork Weave.png"
+	        }
+	    },
+	    {
+	        "name": "Nullstone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Nullstone.png"
+	        }
+	    },
+	    {
+	        "name": "Identity Sculptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Identity Sculptor.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Horizon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Endless Horizon.png"
+	        }
+	    },
+	    {
+	        "name": "Evolving Wilds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Evolving Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "Forsaken Temple",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Forsaken Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Frozen Mire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Frozen Mire.png"
+	        }
+	    },
+	    {
+	        "name": "Glacial Shoreline",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Glacial Shoreline.png"
+	        }
+	    },
+	    {
+	        "name": "Misty Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Misty Marsh.png"
+	        }
+	    },
+	    {
+	        "name": "Primal Fields",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Primal Fields.png"
+	        }
+	    },
+	    {
+	        "name": "Scattered Growth",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scattered Growth.png"
+	        }
+	    },
+	    {
+	        "name": "Shifting Crag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Shifting Crag.png"
+	        }
+	    },
+	    {
+	        "name": "Sunbaked Path",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Sunbaked Path.png"
+	        }
+	    },
+	    {
+	        "name": "Undisturbed Bog",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Undisturbed Bog.png"
+	        }
+	    },
+	    {
+	        "name": "Scout",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scout.png"
+	        }
+	    },
+	    {
+	        "name": "Clockwork Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Clockwork Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Epoch Chronicler",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Epoch Chronicler.png"
+	        }
+	    },
+	    {
+	        "name": "Canyon Colossus",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Canyon Colossus.png"
+	        }
+	    },
+	    {
+	        "name": "Solemn Gate",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Solemn Gate.png"
+	        }
+	    },
+	    {
+	        "name": "Farwatch Compass",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farwatch Compass.png"
+	        }
+	    },
+	    {
+	        "name": "Brave the Horrors",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Brave the Horrors.png"
+	        }
+	    },
+	    {
+	        "name": "Confront Inevitability",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Confront Inevitability.png"
+	        }
+	    },
+	    {
+	        "name": "Cross the Threshold",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cross the Threshold.png"
+	        }
+	    },
+	    {
+	        "name": "Farehn's Journey",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farehn's Journey.png"
+	        }
+	    },
+	    {
+	        "name": "Unflinching Resolve",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unflinching Resolve.png"
+	        }
+	    },
+	    {
+	        "name": "As The World Goes By",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/As The World Goes By.png"
+	        }
+	    },
+	    {
+	        "name": "Displace",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Displace.png"
+	        }
+	    },
+	    {
+	        "name": "Frozen in Time",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Frozen in Time.png"
+	        }
+	    },
+	    {
+	        "name": "Temporal Blip",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Temporal Blip.png"
+	        }
+	    },
+	    {
+	        "name": "Temporal Flow",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Temporal Flow.png"
+	        }
+	    },
+	    {
+	        "name": "Collective Decay",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Collective Decay.png"
+	        }
+	    },
+	    {
+	        "name": "Ceaseless Thirst",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ceaseless Thirst.png"
+	        }
+	    },
+	    {
+	        "name": "Glimpse Forever",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Glimpse Forever.png"
+	        }
+	    },
+	    {
+	        "name": "Lurking Dread",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lurking Dread.png"
+	        }
+	    },
+	    {
+	        "name": "Rending Thoughts",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Rending Thoughts.png"
+	        }
+	    },
+	    {
+	        "name": "Scour the Ruins",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scour the Ruins.png"
+	        }
+	    },
+	    {
+	        "name": "Smolder Out",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Smolder Out.png"
+	        }
+	    },
+	    {
+	        "name": "Wither Away",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Wither Away.png"
+	        }
+	    },
+	    {
+	        "name": "Be Free",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Be Free.png"
+	        }
+	    },
+	    {
+	        "name": "Final Charge",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Final Charge.png"
+	        }
+	    },
+	    {
+	        "name": "Gather the Party",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Gather the Party.png"
+	        }
+	    },
+	    {
+	        "name": "Keep Moving Forward",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Keep Moving Forward.png"
+	        }
+	    },
+	    {
+	        "name": "Magmatic Eruption",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Magmatic Eruption.png"
+	        }
+	    },
+	    {
+	        "name": "Scorching Dragonfire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scorching Dragonfire.png"
+	        }
+	    },
+	    {
+	        "name": "Sudden Catastrophe",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Sudden Catastrophe.png"
+	        }
+	    },
+	    {
+	        "name": "Ancestor's Echo",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ancestor's Echo.png"
+	        }
+	    },
+	    {
+	        "name": "Thunderous Crack",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Thunderous Crack.png"
+	        }
+	    },
+	    {
+	        "name": "Anomalous Void",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Anomalous Void.png"
+	        }
+	    },
+	    {
+	        "name": "Claim of the Expanse",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Claim of the Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Ageless Witness",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ageless Witness.png"
+	        }
+	    },
+	    {
+	        "name": "Enter the Expanse",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Enter the Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Grapple with the Past",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Grapple with the Past.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Triumph",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Nature's Triumph.png"
+	        }
+	    },
+	    {
+	        "name": "Preparation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Preparation.png"
+	        }
+	    },
+	    {
+	        "name": "Ill-Fated Sentry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ill-Fated Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Cautious Recruit",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Cautious Recruit.png"
+	        }
+	    },
+	    {
+	        "name": "Farwatch Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farwatch Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Council Sanctifier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Sanctifier.png"
+	        }
+	    },
+	    {
+	        "name": "Farwatch Rallier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Farwatch Rallier.png"
+	        }
+	    },
+	    {
+	        "name": "Owlin Hunter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Owlin Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Outpost Warden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Outpost Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Outpost Wayfinder",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Outpost Wayfinder.png"
+	        }
+	    },
+	    {
+	        "name": "Arbiter of Tomorrows",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Arbiter of Tomorrows.png"
+	        }
+	    },
+	    {
+	        "name": "Lost Liege",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Lost Liege.png"
+	        }
+	    },
+	    {
+	        "name": "Outpost Captain",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Outpost Captain.png"
+	        }
+	    },
+	    {
+	        "name": "Scattered Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Scattered Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Glacial Salamander",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Salamander ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Glacial Salamander.png"
+	        }
+	    },
+	    {
+	        "name": "Ascended Riftmage",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ascended Riftmage.png"
+	        }
+	    },
+	    {
+	        "name": "Manic Arcanist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Manic Arcanist.png"
+	        }
+	    },
+	    {
+	        "name": "Savit's Apprentice",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Savit's Apprentice.png"
+	        }
+	    },
+	    {
+	        "name": "Soulfire Prophet",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Soulfire Prophet.png"
+	        }
+	    },
+	    {
+	        "name": "Strig Surveyor",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Strig Surveyor.png"
+	        }
+	    },
+	    {
+	        "name": "Thawing Voidwalker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Thawing Voidwalker.png"
+	        }
+	    },
+	    {
+	        "name": "Baneful Buck",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Baneful Buck.png"
+	        }
+	    },
+	    {
+	        "name": "Blood-Cursed Ancestor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Blood-Cursed Ancestor.png"
+	        }
+	    },
+	    {
+	        "name": "Council Sycophant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Council Sycophant.png"
+	        }
+	    },
+	    {
+	        "name": "Covetous Tombrobber",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Covetous Tombrobber.png"
+	        }
+	    },
+	    {
+	        "name": "Eager Trinketthief",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Eager Trinketthief.png"
+	        }
+	    },
+	    {
+	        "name": "Indulgent Feaster",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Indulgent Feaster.png"
+	        }
+	    },
+	    {
+	        "name": "Skulking Blight",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Skulking Blight.png"
+	        }
+	    },
+	    {
+	        "name": "Injured Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Injured Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Fate Siphoner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Fate Siphoner.png"
+	        }
+	    },
+	    {
+	        "name": "Essence Extractor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Vampire Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Essence Extractor.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Bladedancer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ancient Bladedancer.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Prophet",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Ancient Prophet.png"
+	        }
+	    },
+	    {
+	        "name": "Esoteric Abberation",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Esoteric Abberation.png"
+	        }
+	    },
+	    {
+	        "name": "Expedition Outcast",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expedition Outcast.png"
+	        }
+	    },
+	    {
+	        "name": "Magmatic Minotaur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Minotaur ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Magmatic Minotaur.png"
+	        }
+	    },
+	    {
+	        "name": "Raging Inferno",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Raging Inferno.png"
+	        }
+	    },
+	    {
+	        "name": "Oracle of End Times",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Oracle of End Times.png"
+	        }
+	    },
+	    {
+	        "name": "Outpost Fireslinger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Outpost Fireslinger.png"
+	        }
+	    },
+	    {
+	        "name": "Twinned Twines",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Dryad ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Twinned Twines.png"
+	        }
+	    },
+	    {
+	        "name": "Unyielding Rootwalker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unyielding Rootwalker.png"
+	        }
+	    },
+	    {
+	        "name": "Solitary Stag",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Solitary Stag.png"
+	        }
+	    },
+	    {
+	        "name": "Primal Sentry",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Dryad Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Primal Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Oracle of Vigor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dryad ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Oracle of Vigor.png"
+	        }
+	    },
+	    {
+	        "name": "Unnatural Mistake",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Unnatural Mistake.png"
+	        }
+	    },
+	    {
+	        "name": "Expedition Guide",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expedition Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Expanse Warden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Expanse Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Elvish Riftwalker",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Elvish Riftwalker.png"
+	        }
+	    },
+	    {
+	        "name": "Bygone Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Bygone Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Alrick, Council Collector",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Legendary Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Alrick, Council Collector.png"
+	        }
+	    },
+	    {
+	        "name": "Timepiece Trawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Timepiece Trawler.png"
+	        }
+	    },
+	    {
+	        "name": "Dragon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Dragon.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Island.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Acolyte of Stars",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Acolyte of Stars.png"
+	        }
+	    },
+	    {
+	        "name": "Curious Recruit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Curious Recruit.png"
+	        }
+	    },
+	    {
+	        "name": "Horror",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Horror.png"
+	        }
+	    },
+	    {
+	        "name": "Bird",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Bird.png"
+	        }
+	    },
+	    {
+	        "name": "Projected",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Tracker",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Projected.png"
+	        }
+	    },
+	    {
+	        "name": "Copy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO-v1-C-files/Copy.png"
+	        }
+	    }
+	]
+	[UncommonSlot(5)]
+		50 Expanse Sentry
+		50 Recurring Rites
+		50 On the Horizon
+		50 Rites of the Bloodless
+		50 Trailblazer's Boots
+		50 Thawing Citadel
+		50 Temporal Rift
+		50 Unexpected Encounter
+		50 Forgotten King
+		50 Ad Infinitum
+		50 Seek the Stars
+		50 Beckon Disaster
+		50 Rookie Explorer
+		50 Council Faithmender
+		50 Dawnbreak Voyager
+		50 Expanse Interceptor
+		50 Owlin Guide
+		50 Frigid Persistence
+		50 Owlin Historian
+		50 Strig Sentinel
+		50 Tap Into Time
+		50 Wondrous Discovery
+		50 Hayden's Dismissal
+		50 Return to Aether
+		50 Savit's Thesis
+		50 Stranded Strig
+		50 Memories of Eternity
+		50 Shifty Recruit
+		50 Seer of Lost Omens
+		50 Lumbering Void
+		50 Harness the Pattern
+		50 Glimpse of Fate
+		50 Cunning Augur
+		50 Chronurgist Adept
+		50 Calculating Strig
+		50 Agnostophobia
+		50 Abyssal Broker
+		50 Assembled Ancestry
+		50 Butcher of the Lost
+		50 Council Fateshifter
+		50 Emerge from the Expanse
+		50 Endless Crypts
+		50 Eternal Heiress
+		50 Reduce to Nothing
+		50 Rift Hunter
+		50 Scion of Entropy
+		50 Towering Endbringer
+		50 Tragedy of Time
+		50 Ashen Oracle
+		50 Bounding Predator
+		50 Cataclysmic Progeny
+		50 Cinder Strig
+		50 Converge on the Peak
+		50 In Sakkath's Wake
+		50 Waylaid Historian
+		50 Molten Forebear
+		50 Treacherous Fate
+		50 Territorial Wurm
+		50 Against All Odds
+		50 Desperate Survivalist
+		50 Elvish Trailblazer
+		50 Expanse Escort
+		50 Ancient Grovetender
+		50 Flourishing Sentinels
+		50 Forgotten Vanguard
+		50 Guardian of Ancient Groves
+		50 Hunt the Horizon
+		50 Natural Nexus
+		50 Seek Tomorrow
+		50 Unknowable Colossus
+		50 Pull the Thread
+		50 Cloudblazer
+		50 Council's Machinations
+		50 Council Doomseer
+		50 Boundless Expanse
+		50 Farwatch Veteran
+		50 Council Attendants
+		50 Living Storm
+		50 Bloodline Historian
+		50 Master of Possibilities
+		50 Wayward Guides
+		50 Lost Gateway
+		50 Ageless Goliath
+		50 Clockwork Weave
+		50 Nullstone
+		50 Identity Sculptor
+		50 Farehn's Journey
+		50 Unflinching Resolve
+		50 Lurking Dread
+		50 Scour the Ruins
+		50 Be Free
+		50 Keep Moving Forward
+		50 Ancestor's Echo
+		50 Anomalous Void
+		50 Ageless Witness
+		50 Ill-Fated Sentry
+		50 Essence Extractor
+		50 Magmatic Minotaur
+		50 Timepiece Trawler
+		50 Curious Recruit
+	[CommonSlot(9)]
+		50 Quiet Reflection
+		50 Disrupt Causality
+		50 Erase from History
+		50 Into the Beyond
+		50 Magmatic Dragon
+		50 Endless Horizon
+		50 Evolving Wilds
+		50 Forsaken Temple
+		50 Frozen Mire
+		50 Glacial Shoreline
+		50 Misty Marsh
+		50 Primal Fields
+		50 Scattered Growth
+		50 Shifting Crag
+		50 Sunbaked Path
+		50 Undisturbed Bog
+		50 Clockwork Explorer
+		50 Epoch Chronicler
+		50 Canyon Colossus
+		50 Solemn Gate
+		50 Farwatch Compass
+		50 Brave the Horrors
+		50 Confront Inevitability
+		50 Cross the Threshold
+		50 As The World Goes By
+		50 Displace
+		50 Frozen in Time
+		50 Temporal Blip
+		50 Temporal Flow
+		50 Collective Decay
+		50 Ceaseless Thirst
+		50 Glimpse Forever
+		50 Rending Thoughts
+		50 Smolder Out
+		50 Wither Away
+		50 Final Charge
+		50 Gather the Party
+		50 Magmatic Eruption
+		50 Scorching Dragonfire
+		50 Sudden Catastrophe
+		50 Thunderous Crack
+		50 Claim of the Expanse
+		50 Enter the Expanse
+		50 Grapple with the Past
+		50 Nature's Triumph
+		50 Preparation
+		50 Cautious Recruit
+		50 Farwatch Explorer
+		50 Council Sanctifier
+		50 Farwatch Rallier
+		50 Owlin Hunter
+		50 Outpost Warden
+		50 Outpost Wayfinder
+		50 Arbiter of Tomorrows
+		50 Lost Liege
+		50 Outpost Captain
+		50 Scattered Sentinel
+		50 Glacial Salamander
+		50 Ascended Riftmage
+		50 Manic Arcanist
+		50 Savit's Apprentice
+		50 Soulfire Prophet
+		50 Strig Surveyor
+		50 Thawing Voidwalker
+		50 Baneful Buck
+		50 Blood-Cursed Ancestor
+		50 Council Sycophant
+		50 Covetous Tombrobber
+		50 Eager Trinketthief
+		50 Indulgent Feaster
+		50 Skulking Blight
+		50 Injured Explorer
+		50 Fate Siphoner
+		50 Ancient Bladedancer
+		50 Ancient Prophet
+		50 Esoteric Abberation
+		50 Expedition Outcast
+		50 Raging Inferno
+		50 Oracle of End Times
+		50 Outpost Fireslinger
+		50 Twinned Twines
+		50 Unyielding Rootwalker
+		50 Solitary Stag
+		50 Primal Sentry
+		50 Oracle of Vigor
+		50 Unnatural Mistake
+		50 Expedition Guide
+		50 Expanse Warden
+		50 Elvish Riftwalker
+		50 Bygone Sentinel
+		50 Acolyte of Stars
+	[BasicSlot(1)]
+		50 Plains
+		50 Island
+		50 Swamp
+		50 Mountain
+		50 Forest
+	
