@@ -1,0 +1,2932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CRO</name>
+      <longname>Chronarin</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Expanse Sentry</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Expanse Sentry enters or attacks, you may put a card you don’t own from exile into its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Recurring Rites</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield, then return it to your hand.</text>
+    </card>
+    <card>
+      <name>On the Horizon</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Paradox — Spells you cast from anywhere other than your hand cost {1} less to cast.
+{2}, Sacrifice On the Horizon: Exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Rites of the Bloodless</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Rites of the Bloodless deals damage to target creature or planeswalker equal to the sacrificed creature’s power.</text>
+    </card>
+    <card>
+      <name>Trailblazer&apos;s Boots</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has nonbasic landwalk. (That creature can’t be blocked as long as defending player controls an equipped creature has nonbasic land.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Thawing Citadel</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Exile target card from a graveyard. Put a charge counter on Thawing Citadel.
+{T}, Remove a charge counter from Thawing Citadel: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Temporal Rift</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}, Sacrifice Temporal Rift: Exile target creature you control, then return it to the battlefield tapped under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Quiet Reflection</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1.
+Draw X cards, where X is one plus the total number of cards you own in exile and in your graveyard named Quiet Reflection.</text>
+    </card>
+    <card>
+      <name>Disrupt Causality</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target creature into its owner’s library second from the top.</text>
+    </card>
+    <card>
+      <name>Unexpected Encounter</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Put a creature card from your hand onto the battlefield, then return it to your hand.
+• Look at the top four cards of your library. You may reveal a creature or planeswalker card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Forgotten King</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6WW</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Flash
+When Forgotten King enters, other creatures you control gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Ad Infinitum</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control. Exile it at the end of your next turn.
+Escape—3UU, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+      <related>Copy</related>
+    </card>
+    <card>
+      <name>Seek the Stars</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, target attacking creature gains stutter until end of turn. (Whenever that creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield with haste at the beginning of your next upkeep.)</text>
+    </card>
+    <card>
+      <name>Beckon Disaster</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Beckon Disaster, sacrifice a creature.
+Beckon Disaster deals damage equal to the sacrificed creature’s power divided as you choose among any number of target creatures.</text>
+    </card>
+    <card>
+      <name>Rookie Explorer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, you may exile Rookie Explorer. If you do, return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Council Faithmender</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another permanent you control leaves the battlefield, put a +1/+1 counter on Council Faithmender. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Dawnbreak Voyager</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dawnbreak Voyager enters, if it wasn’t cast from your hand, put a +1/+1 counter on target creature you control.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Expanse Interceptor</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Expanse Interceptor enters, exile target creature you don’t control with power 4 or greater.
+Projection 2W (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Owlin Guide</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Owlin Guide enters, if it was cast, exile another target creature you own and control, then return it to the battlefield.
+Projection 1W (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Erase from History</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Erase from History enters, another target nonland permanent phases out until Erase from History leaves the battlefield or phases out. (Treat it and anything attached to it as though they don’t exist.)</text>
+    </card>
+    <card>
+      <name>Frigid Foray</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Paradox — Whenever you cast a spell from anywhere other than your hand, tap target creature you don’t control. If it was already tapped, put a stun counter on it instead. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Owlin Historian</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Owlin Historian has flying as long as you own a creature card in exile with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. </text>
+    </card>
+    <card>
+      <name>Strig Sentinel</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever another creature you control enters, you gain 1 life. If that creature is a Scout, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Tap Into Time</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you own and control, return it to the battlefield, then exile it again. Return it to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Wondrous Discovery</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature with mana value X or less from your graveyard to the battlefield, where X is the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+    </card>
+    <card>
+      <name>Hayden&apos;s Dismissal</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target noncreature spell’s owner shuffles it into their library. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Return to Aether</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell or creature to its owner’s hand unless its controller pays {X}, where X is the number of cards in your chronicle. If they do, draw a card. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+    </card>
+    <card>
+      <name>Savit&apos;s Thesis</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put up to one target face-up exiled card into its owner’s graveyard.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Stranded Strig</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Stranded Strig enters, tap target nonland permanent you don’t control.
+Projection 1U (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Memories of Eternity</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Put Memories of Eternity on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Shifty Recruit</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shifty Recruit enters, surveil 2.
+{U}, Discard a card: Shifty Recruit can’t be blocked this turn.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Expanse Farseer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Scout Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Paradox — Spells you cast from anywhere other than your hand can’t be countered.
+{T}: Add {U}. Spend this mana only to cast spells from anywhere other than your hand.</text>
+    </card>
+    <card>
+      <name>Lumbering Void</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1}
+{U}: Return another target nonland permanent you control to its owner’s hand. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Harness the Pattern</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Harness the Pattern enters, target creature’s owner puts it on the top or bottom of their library.
+Paradox — Whenever you cast a spell from anywhere other than your hand, you may return Harness the Pattern to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Glimpse of Fate</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 3.
+Escape—1U, Discard a card. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Cunning Augur</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Paradox — Whenever you cast a spell from anywhere other than your hand, surveil 1. If this ability has resolved at least two times this turn, draw a card instead.</text>
+    </card>
+    <card>
+      <name>Chronurgist Adept</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Chronurgist Adept enters, you may discard a card.
+Whenever you discard a card, draw a card. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Calculating Strig</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash 
+When Calculating Strig enters, creatures you don’t control get -1/-0 until end of turn.
+Escape—3UU, Exile an instant or sorcery card from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Agnostophobia</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals all but one card from their hand. You may choose a nonland card revealed this way. If you do, exile that card. Otherwise, exile the card not revealed this way. You lose 1 life.</text>
+    </card>
+    <card>
+      <name>Abyssal Broker</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Abyssal Broker enters, each opponent discards a card
+Escape—2BB, Discard a card, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Assembled Ancestry</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{B}, Sacrifice a creature: Search your library for a creature card with the same name as the sacrificed creature, reveal it, and put it into your hand. Then shuffle.
+1B, Sacrifice Assembled Ancestry: Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Butcher of the Lost</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Butcher of the Lost enters tapped.
+Escape—1B, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Council Fateshifter</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control leaves the battlefield, surveil 1.
+{T}, Sacrifice another creature: Add {B}. Activate only during your turn.</text>
+    </card>
+    <card>
+      <name>Emerge from the Expanse</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Endless Crypts</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, put a corpse counter on Endless Crypts.
+{2}, Remove two corpse counters from Endless Crypts: You gain 3 life.
+{2}, Remove three corpse counters from Endless Crypts: Draw a card.</text>
+    </card>
+    <card>
+      <name>Eternal Heiress</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eternal Heiress can’t block.
+At the beginning of your end step, if Eternal Heiress was put into your graveyard from anywhere this turn, you may pay {B}. If you do, return it to your hand.</text>
+    </card>
+    <card>
+      <name>Reduce to Nothing</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature with toughness X or less, where X is two plus the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+    </card>
+    <card>
+      <name>Rift Hunter</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Rift Hunter leaves the battlefield, each opponent loses 2 life and you gain 2 life.
+Projection 1B (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+    </card>
+    <card>
+      <name>Scion of Entropy</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your upkeep, sacrifice a creature.
+At the beginning of your end step, choose up to one target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Towering Endbringer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Skeleton Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the start of combat on your turn, you may mill three cards.
+Whenever Towering Endbringer attacks, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on it and it gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Tragedy of Time</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -2/-2 until end of turn. 
+Escape—3BB, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Ashen Oracle</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Paradox — Whenever you cast a spell from anywhere other than your hand, Ashen Oracle deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Bounding Predator</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Bounding Predator enters, you may sacrifice another creature. If you do, Bounding Predator gains indestructible until end of turn and must be blocked this turn if able.</text>
+    </card>
+    <card>
+      <name>Cataclysmic Progeny</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card you own is put into exile from anywhere, Cataclysmic Progeny gains flying until end of turn.
+{2}, Exile two cards from your graveyard: Cataclysmic Progeny gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Cinder Strig</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cinder Strig enters, it deals 3 damage to up to one target creature or planeswalker.
+Projection 2R (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Converge on the Present</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Converge on the Present deals damage to target creature or planeswalker equal to 1 plus the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+    </card>
+    <card>
+      <name>In Sakkath&apos;s Wake</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard up to three cards, then draw that many cards plus one. When you do, In Sakkath’s Wake deals X damage to any target, where X is the greatest mana value of cards discarded this way.</text>
+    </card>
+    <card>
+      <name>Into the Beyond</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard a card, then draw a card. Then you may exile three cards from your graveyard to repeat this process once.</text>
+    </card>
+    <card>
+      <name>Waylaid Historian</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card you own is put into exile from anywhere, you may discard a card. If you do, draw a card. Do this only once each turn.</text>
+    </card>
+    <card>
+      <name>Magmatic Dragon</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Flying</text>
+    </card>
+    <card>
+      <name>Molten Forebear</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Molten Forebear enters, create a 1/1 red Elemental creature token with haste.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Treacherous Fate</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if a card you own was put into exile this turn.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Territorial Wurm</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>XRG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Territorial Wurm enters with X +1/+1 counters on it.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Territorial Wurm.</text>
+    </card>
+    <card>
+      <name>Against the Odds</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Target creature you control gains indestructible until end of turn. Then that creature fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Desperate Survivalist</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Desperate Survivalist enters, you may mill three cards.
+When Desperate Survivalist dies, you may exile it. If you do, return target permanent card from your graveyard to the top of your library.</text>
+    </card>
+    <card>
+      <name>Elvish Trailblazer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters, Elvish Trailblazer gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, put a +1/+1 counter on Elvish Trailblazer instead.</text>
+    </card>
+    <card>
+      <name>Expanse Escort</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Scouts you control have ward {1}.
+Whenever another creature you control enters, create a 1/1 white Scout creature token. This ability only triggers once each turn.</text>
+      <related>Scout</related>
+    </card>
+    <card>
+      <name>Ancient Grovetender</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add two mana of any one color. Spend this mana only to cast spells from anywhere other than your hand.
+Paradox — Whenever you cast a spell from anywhere other than your hand, creatures you control gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Flourishing Sentinels</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever a card leaves your graveyard, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Forgotten Vanguard</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+1G: Return Forgotten Vanguard from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Guardian of Ancient Groves</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Guardian of Ancient Groves enters, you may return target land card from your graveyard to the battlefield tapped.
+Projection 2G (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Hunt the Horizon</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Search your library for two basic land cards and put them onto the battlefield tapped. Then shuffle.
+• Return two target land cards from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Natural Nexus</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill X cards, then choose a permanent card milled this way. Put it onto the battlefield tapped if its mana value is X or less. Otherwise, return it to your hand.</text>
+    </card>
+    <card>
+      <name>Seek Tomorrow</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Seek Tomorrow enters, create a 1/1 white Scout creature token.
+Scouts you control have “{T}, Tap an untapped creature you control: Add one mana of any color.”
+1G: Return Seek Tomorrow to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Unknowable Colossus</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Giant Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Escape—1GG, Return a land you control to its owner’s hand. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Pull the Thread</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player shuffles their graveyard into their library. Surveil 3.
+Exile Pull the Thread.</text>
+    </card>
+    <card>
+      <name>Cloudblazer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Cloudblazer enters, you gain 2 life and draw two cards.</text>
+    </card>
+    <card>
+      <name>Council&apos;s Machinations</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, each opponent loses 2 life and you gain 2 life.
+2UB: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Council Doomseer</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control dies, put a +1/+1 counter on Council Doomseer. This ability triggers only once each turn.
+{1}, Sacrifice another creature: Council Doomseer gains your choice of menace, lifelink or haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Boundless Expanse</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R}, Exile two cards from your graveyard: Target creature gains haste until end of turn.
+{G}, Exile two cards from your graveyard: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Farwatch Veteran</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Farwatch Veteran or another Scout you control enters, target creature you control gets +1/+0 and gains trample until end of turn.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Council Attendants</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, if a nontoken permanent you controlled left the battlefield this turn, create a 1/1 white Scout creature token.</text>
+      <related>Scout</related>
+    </card>
+    <card>
+      <name>Living Storm</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Paradox — Whenever you cast a spell from anywhere other than your hand, create a token copy of Living Storm.</text>
+      <related>Copy</related>
+    </card>
+    <card>
+      <name>Bloodline Historian</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bloodline Historian enters the battlefield, you may mill three cards.
+Whenever you mill one or more cards, you may exile a card milled this way and put a +1/+1 counter on Bloodline Historian. Do this only once each turn.</text>
+    </card>
+    <card>
+      <name>Master of Possibilities</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Paradox — Whenever Master of Possibilities enters or you cast a spell from anywhere other than your hand, put a +1/+1 counter on Master of Possibilities.
+Escape—1GU, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Wayward Guides</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wayward Guides enters, create two 1/1 white Scout creature tokens.
+Projection RW (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+    </card>
+    <card>
+      <name>Lost Gateway</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Choose a color from among cards in your graveyard. Add one mana of that color.</text>
+    </card>
+    <card>
+      <name>Ageless Goliath</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Artifact Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Trample
+{3}, Discard Ageless Goliath: Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Clockwork Weave</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Return target creature you control to its owner’s hand. Activate only during your turn.</text>
+    </card>
+    <card>
+      <name>Nullstone</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target player mills two cards.
+{2}, {T}, Sacrifice Nullstone: Counter target spell that was cast from anywhere other than a player’s hand unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Identity Sculptor</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Identity Sculptor enters, you may exile a creature card from your graveyard. If you do, search your library for a card with the same name as the exiled card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Endless Horizon</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Endless Horizon enters tapped.
+{T}: Add {U} or {R}.
+{1}, Discard Endless Horizon: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Evolving Wilds</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Forsaken Temple</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Forsaken Temple enters tapped.
+{T}: Add {W} or {B}.
+{1}, Discard Forsaken Temple: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Frozen Mire</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Frozen Mire enters tapped.
+{T}: Add {U} or {B}.
+{1}, Discard Frozen Mire: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Glacial Shoreline</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Glacial Shoreline enters tapped.
+{T}: Add {W} or {U}.
+{1}, Discard Glacial Shoreline: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Misty Marsh</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Misty Marsh enters tapped.
+{T}: Add {G} or {U}.
+{1}, Discard Misty Marsh: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Primal Fields</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Primal Fields enters tapped.
+{T}: Add {B} or {R}.
+{1}, Discard Primal Fields: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Scattered Growth</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Scattered Growth enters tapped.
+{T}: Add {G} or {W}.
+{1}, Discard Scattered Growth: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Shifting Crag</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Shifting Crag enters tapped.
+{T}: Add {R} or {G}.
+{1}, Discard Shifting Crag: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Sunbaked Path</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sunbaked Path enters tapped.
+{T}: Add {R} or {W}.
+{1}, Discard Sunbaked Path: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Undisturbed Bog</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Undisturbed Bog enters tapped.
+{T}: Add {B} or {G}.
+{1}, Discard Undisturbed Bog: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Clockwork Explorer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Clockwork Explorer leaves the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Epoch Chronicler</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Epoch Chronicler enters, put up to one target card from its owner’s graveyard on the bottom of their library.
+Projection {1} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Canyon Colossus</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Canyon Colossus has ward {2} as long as it’s untapped. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Solemn Gate</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exile Solemn Gate: Target player shuffles their graveyard into their library.
+{7}, Exile Solemn Gate: Exile target creature.</text>
+    </card>
+    <card>
+      <name>Farwatch Compass</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{T}, Sacrifice Farwatch Compass: Return target land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Brave the Horrors</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {3} less to cast if a nontoken permanent you controlled left the battlefield this turn.
+Exile target artifact, enchantment, or creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Confront Inevitability</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +X/+X and gains first strike until end of turn, where X is one plus the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+    </card>
+    <card>
+      <name>Cross the Threshold</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target attacking or blocking creature. If you controlled that creature, return it to the battlefield at the beginning of your next end step.</text>
+    </card>
+    <card>
+      <name>Farehn&apos;s Journey</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it to the battlefield. When it enters, it deals damage equal to its power to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Unflinching Resolve</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1 and gain haste and vigilance as long as a card you own was put into exile this turn.</text>
+    </card>
+    <card>
+      <name>As The World Goes By</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature you control. It gains hexproof until end of turn.
+Escape—2U, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Displace</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to two target creatures you control, then return those cards to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Frozen in Time</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step and can’t be sacrificed.</text>
+    </card>
+    <card>
+      <name>Temporal Blip</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, exile two nonland cards from your graveyard or pay {1}.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Temporal Flow</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may discard a card.
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. If this spell’s additional cost was paid, look at the top five cards of your library instead.</text>
+    </card>
+    <card>
+      <name>Collective Decay</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Each opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Ceaseless Thirst</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains deathtouch until end of turn. When that creature leaves the battlefield this turn, each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Glimpse Forever</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or discard a creature card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Lurking Dread</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would mill one or more cards, you mill that many cards plus two instead.
+{2}, Exile four cards from your graveyard: Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rending Thoughts</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. Draw a card if less than two cards were discarded this way.
+Escape—2BB, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Scour the Ruins</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Escape—2B, Sacrifice a creature. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Smolder Out</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Wither Away</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You may mill cards equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Be Free</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. You may play one of those cards until the end of your next turn.
+Escape—1RR, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Final Charge</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may exile three cards from your graveyard. If you do, this spell costs {2} less to cast.
+Creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Gather the Party</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X 1/1 white Scout creature tokens, where X is two plus the number of cards you own in exile and in your graveyard named Gather the Party.</text>
+      <related>Scout</related>
+    </card>
+    <card>
+      <name>Keep Moving Forward</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature you control dies, create a 1/1 white Scout creature token. This ability triggers only once each turn.
+{R}, Sacrifice a creature: Keep Moving Forward deals 1 damage to each opponent. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Magmatic Eruption</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Paradox — Magmatic Eruption deals 4 damage to target creature. If you’ve cast a spell from anywhere other than your hand this turn, creatures without flying can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Scorching Dragonfire</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Sudden Catastrophe</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target artifact. Sudden Catastrophe deals 1 damage to each creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Ancestor&apos;s Echo</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control enters, if you own a card with the same name in exile or your graveyard, create a token copy of that creature, except it has haste. Sacrifice it at the beginning of the next end step.</text>
+      <related>Copy</related>
+    </card>
+    <card>
+      <name>Thunderous Crack</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Thunderous Crack deals 6 damage to target creature. If a card you own was put into exile this turn, it deals 6 damage divided as you choose among up to two target creatures instead.</text>
+    </card>
+    <card>
+      <name>Anomalous Void</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may search your library for a card with escape, reveal it, then shuffle and put that card on top. Then surveil 3.</text>
+    </card>
+    <card>
+      <name>Claim of the Expanse</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may exile three cards from your graveyard. If you do, this spell costs {3} less to cast.
+Target creature you control deals damage equal to its power to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Ageless Witness</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ageless Witness enters, return target permanent card from your graveyard to your hand.
+Projection 2GG (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Enter the Expanse</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, put them into your graveyard, then shuffle. Then return up to one land from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Grapple with the Past</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then you may return a creature or land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Nature&apos;s Triumph</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Preparation</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Destroy target artifact or enchantment.
+• Create a 1/1 white Scout creature token.
+• Shuffle up to three cards from your graveyard into your library.
+Exile Preparation.</text>
+    </card>
+    <card>
+      <name>Ill-Fated Sentry</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ill-Fated Sentry dies, you may exile it. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Cautious Recruit</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cautious Recruit enters with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Farwatch Explorer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Farwatch Explorer leaves the battlefield, create a 1/1 white Scout creature token.
+Projection {W} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Scout</related>
+      <related> Projected</related>
+    </card>
+    <card>
+      <name>Council Sanctifier</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Farwatch Rallier</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Farwatch Rallier enters, you may search your library for a card named Farwatch Rallier, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Owlin Hunter</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Owlin Hunter enters, target creature you control gains flying until end of turn.
+Projection {W} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+    </card>
+    <card>
+      <name>Outpost Warden</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever another creature you control enters, Outpost Warden gets +1/+1 until end of turn. If it’s a Scout, put a +1/+1 counter on Outpost Warden instead.</text>
+    </card>
+    <card>
+      <name>Outpost Wayfinder</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Outpost Wayfinder has first strike as long as it’s your turn.
+Outpost Wayfinder enters with a +1/+1 counter if it wasn’t cast from your hand.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Arbiter of Tomorrows</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Arbiter of Tomorrows enters, return another target nonland permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Lost Liege</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lost Liege enters, untap another target creature you control.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Outpost Captain</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Scattered Sentinel</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)
+When Scattered Sentinel enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Glacial Salamander</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Salamander </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, untap Glacial Salamander.
+{U}, {T}: Tap target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Perilous Explorer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Escape—5UU, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+Perilous Explorer escapes with two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Manic Arcanist</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Manic Arcanist enters, surveil 2.
+Projection {U} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Expanse Wayfarer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Expanse Wayfarer enters, you may draw a card. If you do, discard a card.
+1U: Expanse Wayfarer gains flying until end of turn.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Soulfire Prophet</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Paradox — Whenever you cast a spell from anywhere other than your hand, surveil 2. This ability triggers only once each turn. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Strig Surveyor</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Scout </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Thawing Voidwalker</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Paradox — The first spell you cast from anywhere other than your hand each turn costs {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Baneful Buck</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Baneful Buck enters tapped.
+Whenever Baneful Buck enters or dies, you may mill two cards.</text>
+    </card>
+    <card>
+      <name>Blood-Cursed Ancestor</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blood-Cursed Ancestor dies, you may search your library for a card named Blood-Cursed Ancestor, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Council Sycophant</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Covetous Tombrobber</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Covetous Tombrobber leaves the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Eager Trinketthief</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Eager Trinketthief deals damage, target player mills that many cards.</text>
+    </card>
+    <card>
+      <name>Indulgent Feaster</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Indulgent Feaster is put into your graveyard from anywhere, you gain 3 life.
+1BB, Discard Indulgent Feaster: It deals 3 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Skulking Blight</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Injured Explorer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Injured Explorer enters, create a 3/3 black Horror creature token with menace.
+Escape—3B, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+      <related>Horror</related>
+    </card>
+    <card>
+      <name>Fate Siphoner</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control leaves the battlefield, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Essence Extractor</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch, ward {1}
+Whenever Essence Extractor deals combat damage to a player, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Ancient Bladedancer</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ancient Bladedancer attacks, you may exile a card from your graveyard. If you do, it gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Ancient Prophet</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Paradox — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Ancient Prophet.</text>
+    </card>
+    <card>
+      <name>Esoteric Abberation</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Esoteric Abberation attacks, you may sacrifice another creature. If you do, Esoteric Abberation gets +1/+1 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Expedition Outcast</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expedition Outcast has haste as long as you own a card in exile.</text>
+    </card>
+    <card>
+      <name>Magmatic Minotaur</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Minotaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{1}, Sacrifice another creature you control: Target creature can’t block this turn.</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Raging Inferno</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Oracle of End Times</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oracle of End Times enters, you may discard a card. If you do, draw a card.
+Projection {R} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Outpost Fireslinger</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Outpost Fireslinger enters, if it wasn’t cast from your hand, it deals 2 damage to target player or planeswalker.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Twinned Twines</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Twinned Twines attacks, you may return another creature you control to its owner’s hand. If you do, put a +1/+1 counter on Twinned Twines.</text>
+    </card>
+    <card>
+      <name>Unyielding Rootwalker</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Solitary Stag</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Solitary Stag attacks, you may exile a card from your graveyard. If you do, untap it.</text>
+    </card>
+    <card>
+      <name>Primal Sentry</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dryad Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Primal Sentry enters, you may mill two cards.
+{G}, Exile two cards from your graveyard: Primal Sentry gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Oracle of Vigor</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards are put into your graveyard from anywhere other than the battlefield, put a +1/+1 counter on Oracle of Vigor.</text>
+    </card>
+    <card>
+      <name>Unnatural Mistake</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unnatural Mistake enters with a number of +1/+1 counters equal to the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+      <related>Projected</related>
+    </card>
+    <card>
+      <name>Expedition Guide</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expedition Guide enters with a +1/+1 counter if a card left your graveyard this turn.
+Escape—3GG, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Expanse Warden</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Expanse Warden enters, you may return target Scout creature card not named Expanse Warden from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Elvish Riftwalker</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}, Tap an untapped creature you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Bygone Sentinel</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bygone Sentinel gets +1/+1 for each other creature you control and each other card you own in exile named Bygone Sentinel.
+{2}, Exile a card named Bygone Sentinel from your graveyard: You gain life equal to Bygone Sentinel’s power.</text>
+    </card>
+    <card>
+      <name>Timepiece Trawler</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Timepiece Trawler enters, if it wasn’t cast from your hand, surveil 1.
+{1}: Timepiece Trawler can’t be blocked this turn except by creatures with power 1 or less.
+Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">CRO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Acolyte of Stars</name>
+      <set rarity="common">CRO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Acolyte of Stars is put into your graveyard from your library, you may return it to your hand.
+When Acolyte of Stars enters, you may mill two cards.</text>
+    </card>
+    <card>
+      <name>Curious Recruit</name>
+      <set rarity="uncommon">CRO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards you own are put into exile from anywhere, you may destroy target artifact or enchantment. Do this only once each turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Scout</name>
+      <set>CRO</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon</name>
+      <set>CRO</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>CRO</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird</name>
+      <set>CRO</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Projected</name>
+      <set>CRO</set>
+      <prop>
+        <colors></colors>
+        <type>Tracker</type>
+        <maintype>Tracker</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>After a projected creature is exiled, you can place it here. You may cast the creature from exile.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy</name>
+      <set>CRO</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a copy of something else.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
