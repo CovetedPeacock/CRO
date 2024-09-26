@@ -2491,9 +2491,27 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Copy.png"
 	        }
+	    },
+	    {
+	        "name": "Expanse, the Great Beyond",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Expanse, the Great Beyond.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Elemental.png"
+	        }
 	    }
 	]
-	[UncommonSlot(4)]
+	[UncommonSlot(5)]
 		50 Expanse Sentry
 		50 Recurring Rites
 		50 On the Horizon
@@ -2594,7 +2612,7 @@
 		50 Magmatic Minotaur
 		50 Timepiece Trawler
 		50 Curious Recruit
-	[CommonSlot(10)]
+	[CommonSlot(9)]
 		50 Quiet Reflection
 		50 Disrupt Causality
 		50 Erase from History
@@ -2686,10 +2704,4 @@
 		50 Elvish Riftwalker
 		50 Bygone Sentinel
 		50 Acolyte of Stars
-	[BasicSlot(1)]
-		50 Plains
-		50 Island
-		50 Swamp
-		50 Mountain
-		50 Forest
 	

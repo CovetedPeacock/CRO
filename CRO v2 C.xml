@@ -684,7 +684,7 @@ At the beginning of your end step, if Eternal Heiress was put into your graveyar
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target creature with toughness X or less, where X is two plus the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
+      <text>Exile target creature with toughness X or less, where X is one plus the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
     </card>
     <card>
       <name>Rift Hunter</name>
@@ -701,6 +701,7 @@ At the beginning of your end step, if Eternal Heiress was put into your graveyar
       <text>Menace
 When Rift Hunter leaves the battlefield, each opponent loses 2 life and you gain 2 life.
 Projection 1B (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
     </card>
     <card>
       <name>Scion of Entropy</name>
@@ -890,6 +891,7 @@ Flying</text>
       <text>Menace
 When Molten Forebear enters, create a 1/1 red Elemental creature token with haste.
 Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+      <related>Elemental</related>
     </card>
     <card>
       <name>Treacherous Fate</name>
@@ -1084,6 +1086,7 @@ Projection 2G (You may cast this card for its projection cost if it isn’t proj
       <text>When Seek Tomorrow enters, create a 1/1 white Scout creature token.
 Scouts you control have “{T}, Tap an untapped creature you control: Add one mana of any color.”
 1G: Return Seek Tomorrow to its owner’s hand.</text>
+      <related>Scout</related>
     </card>
     <card>
       <name>Unknowable Colossus</name>
@@ -1262,6 +1265,8 @@ Escape—1GU, Exile four other cards from your graveyard. (You may cast this car
       <tablerow>2</tablerow>
       <text>When Wayward Guides enters, create two 1/1 white Scout creature tokens.
 Projection RW (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related count="2">Scout</related>
+      <related>Projected</related>
     </card>
     <card>
       <name>Lost Gateway</name>
@@ -1634,7 +1639,7 @@ Exile target artifact, enchantment, or creature with power 4 or greater.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creatures you control get +1/+1 and gain haste and vigilance as long as a card you own was put into exile this turn.</text>
+      <text>Creatures you control get +1/+1 and have haste and vigilance as long as a card you own was put into exile this turn.</text>
     </card>
     <card>
       <name>As The World Goes By</name>
@@ -1855,7 +1860,7 @@ Creatures you control get +2/+0 until end of turn.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Create X 1/1 white Scout creature tokens, where X is two plus the number of cards you own in exile and in your graveyard named Gather the Party.</text>
-      <related>Scout</related>
+      <related count="x">Scout</related>
     </card>
     <card>
       <name>Keep Moving Forward</name>
@@ -1870,6 +1875,7 @@ Creatures you control get +2/+0 until end of turn.</text>
       <tablerow>1</tablerow>
       <text>Whenever a nontoken creature you control dies, create a 1/1 white Scout creature token. This ability triggers only once each turn.
 {R}, Sacrifice a creature: Keep Moving Forward deals 1 damage to each opponent. Activate only as a sorcery.</text>
+      <related>Scout</related>
     </card>
     <card>
       <name>Magmatic Eruption</name>
@@ -2035,6 +2041,7 @@ Projection 2GG (You may cast this card for its projection cost if it isn’t pro
 • Create a 1/1 white Scout creature token.
 • Shuffle up to three cards from your graveyard into your library.
 Exile Preparation.</text>
+      <related>Scout</related>
     </card>
     <card>
       <name>Ill-Fated Sentry</name>
@@ -2079,7 +2086,7 @@ Exile Preparation.</text>
       <text>When Farwatch Explorer leaves the battlefield, create a 1/1 white Scout creature token.
 Projection {W} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
       <related>Scout</related>
-      <related> Projected</related>
+      <related>Projected</related>
     </card>
     <card>
       <name>Council Sanctifier</name>
@@ -2124,6 +2131,7 @@ Projection {W} (You may cast this card for its projection cost if it isn’t pro
       <text>Flying
 When Owlin Hunter enters, target creature you control gains flying until end of turn.
 Projection {W} (You may cast this card for its projection cost if it isn’t projected. If you do, it’s exiled when it enters. You may cast it as long as it remains exiled.)</text>
+      <related>Projected</related>
     </card>
     <card>
       <name>Outpost Warden</name>
@@ -2185,7 +2193,6 @@ When Arbiter of Tomorrows enters, return another target nonland permanent you co
       <tablerow>2</tablerow>
       <text>When Lost Liege enters, untap another target creature you control.
 Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
-      <related>Projected</related>
     </card>
     <card>
       <name>Outpost Captain</name>
@@ -2542,7 +2549,6 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, put a 
       <tablerow>2</tablerow>
       <text>Menace
 {1}, Sacrifice another creature you control: Target creature can’t block this turn.</text>
-      <related>Projected</related>
     </card>
     <card>
       <name>Raging Inferno</name>
@@ -2677,7 +2683,6 @@ When Primal Sentry enters, you may mill two cards.
       </prop>
       <tablerow>2</tablerow>
       <text>Unnatural Mistake enters with a number of +1/+1 counters equal to the number of cards in your chronicle. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
-      <related>Projected</related>
     </card>
     <card>
       <name>Expedition Guide</name>
@@ -2863,6 +2868,16 @@ When Acolyte of Stars enters, you may mill two cards.</text>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>Farwatch Explorer</reverse-related>
+      <reverse-related>Scouting Party</reverse-related>
+      <reverse-related>Gather the Party</reverse-related>
+      <reverse-related>Keep Moving Forward</reverse-related>
+      <reverse-related>Expanse Export</reverse-related>
+      <reverse-related>Preparation</reverse-related>
+      <reverse-related>Seek Tomorrow</reverse-related>
+      <reverse-related>Council Attendants</reverse-related>
+      <reverse-related>Farehn, Lost Leader</reverse-related>
+      <reverse-related>Wayward Guides</reverse-related>
     </card>
     <card>
       <name>Dragon</name>
@@ -2908,12 +2923,27 @@ When Acolyte of Stars enters, you may mill two cards.</text>
       <set>CRO</set>
       <prop>
         <colors></colors>
-        <type>Tracker</type>
-        <maintype>Tracker</maintype>
+        <type>Token</type>
+        <maintype>Token</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>After a projected creature is exiled, you can place it here. You may cast the creature from exile.</text>
       <token>1</token>
+      <reverse-related>Expanse Interceptor</reverse-related>
+      <reverse-related>Farwatch Explorer</reverse-related>
+      <reverse-related>Lost Liege</reverse-related>
+      <reverse-related>Owlin Guide</reverse-related>
+      <reverse-related>Owlin Hunter</reverse-related>
+      <reverse-related>Manic Arcanist</reverse-related>
+      <reverse-related>Stranded Strig</reverse-related>
+      <reverse-related>Rift Hunter</reverse-related>
+      <reverse-related>Cinder Strig</reverse-related>
+      <reverse-related>False Idol</reverse-related>
+      <reverse-related>Oracle of End Times</reverse-related>
+      <reverse-related>Ageless Witness</reverse-related>
+      <reverse-related>Guardian of Ancient Groves</reverse-related>
+      <reverse-related>Wayward Guides</reverse-related>
+      <reverse-related>Epoch Chronicler</reverse-related>
     </card>
     <card>
       <name>Copy</name>
@@ -2926,6 +2956,23 @@ When Acolyte of Stars enters, you may mill two cards.</text>
       <tablerow>1</tablerow>
       <text>This token can be used to represent a copy of something else.</text>
       <token>1</token>
+      <reverse-related>Ad Infinitum</reverse-related>
+      <reverse-related>Ancestor&apos;s Echo</reverse-related>
+      <reverse-related>Living Storm</reverse-related>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>CRO</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+      <reverse-related>Molten Forebear</reverse-related>
     </card>
 
   </cards>
