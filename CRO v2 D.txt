@@ -1028,7 +1028,7 @@
 	    {
 	        "name": "Assembled Ancestry",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Assembled Ancestry.png"
@@ -1929,7 +1929,7 @@
 	        "name": "Nature's Triumph",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Nature's Triumph.png"
 	        }

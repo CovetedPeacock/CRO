@@ -590,8 +590,8 @@ Escape—2BB, Discard a card, Exile four other cards from your graveyard. (You m
       <set rarity="uncommon">CRO</set>
       <prop>
         <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -731,7 +731,7 @@ At the beginning of your end step, choose up to one target creature card in your
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the start of combat on your turn, you may mill three cards.
+      <text>At the beginning of combat on your turn, you may mill three cards.
 Whenever Towering Endbringer attacks, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on it and it gains lifelink until end of turn.</text>
     </card>
     <card>
@@ -1927,7 +1927,7 @@ Creatures you control get +2/+0 until end of turn.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control enters, if you own a card with the same name in exile or your graveyard, create a token copy of that creature, except it has haste. Sacrifice it at the beginning of the next end step.</text>
+      <text>Whenever a nontoken creature you control enters, if you own a card with the same name in exile or your graveyard, create a token copy of that creature, except it has haste. Sacrifice it at the beginning of the next end step.</text>
       <related>Copy</related>
     </card>
     <card>
@@ -2019,11 +2019,11 @@ Projection 2GG (You may cast this card for its projection cost if it isn’t pro
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control fights target creature you don’t control.</text>
+      <text>Target creature you control gets +1/+1 and gains vigilance until end of turn if a card left your graveyard this turn. Then it fights target creature you don’t control.</text>
     </card>
     <card>
       <name>Preparation</name>
