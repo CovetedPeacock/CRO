@@ -192,7 +192,7 @@ Escape—3UU, Exile four other cards from your graveyard. (You may cast this car
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, target attacking creature gains stutter until end of turn. (Whenever that creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield with haste at the beginning of your next upkeep.)</text>
+      <text>Whenever you attack, target attacking creature gains stutter until end of turn. (When that creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Beckon Disaster</name>
@@ -249,7 +249,7 @@ Beckon Disaster deals damage equal to the sacrificed creature’s power divided 
       </prop>
       <tablerow>2</tablerow>
       <text>When Dawnbreak Voyager enters, if it wasn’t cast from your hand, put a +1/+1 counter on target creature you control.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Expanse Interceptor</name>
@@ -450,7 +450,7 @@ Projection 1U (You may cast this card for its projection cost if it isn’t proj
       <tablerow>2</tablerow>
       <text>When Shifty Recruit enters, surveil 2.
 {U}, Discard a card: Shifty Recruit can’t be blocked this turn.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Expanse Farseer</name>
@@ -480,7 +480,7 @@ Stutter (When this creature attacks, you may exile it at the end of combat. If y
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {1}
-{U}: Return another target nonland permanent you control to its owner’s hand. Activate only once each turn.</text>
+1U: Return another target nonland permanent you control to its owner’s hand. Activate only once each turn.</text>
     </card>
     <card>
       <name>Harness the Pattern</name>
@@ -890,7 +890,7 @@ Flying</text>
       <tablerow>2</tablerow>
       <text>Menace
 When Molten Forebear enters, create a 1/1 red Elemental creature token with haste.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
       <related>Elemental</related>
     </card>
     <card>
@@ -1188,7 +1188,7 @@ When Cloudblazer enters, you gain 2 life and draw two cards.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Farwatch Veteran or another Scout you control enters, target creature you control gets +1/+0 and gains trample until end of turn.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Council Attendants</name>
@@ -1241,15 +1241,15 @@ Whenever you mill one or more cards, you may exile a card milled this way and pu
       <set rarity="uncommon">CRO</set>
       <prop>
         <colors>UG</colors>
-        <manacost>GU</manacost>
-        <cmc>2</cmc>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Paradox — Whenever Master of Possibilities enters or you cast a spell from anywhere other than your hand, put a +1/+1 counter on Master of Possibilities.
-Escape—1GU, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+      <text>Paradox — Whenever Master of Possibilities enters or you cast a spell from anywhere other than your hand, reveal the top card of your library. If it’s a land, put it onto the battlefield tapped. Otherwise, you may put it into your graveyard.
+Escape—2GU, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
     <card>
       <name>Wayward Guides</name>
@@ -1545,7 +1545,7 @@ Projection {1} (You may cast this card for its projection cost if it isn’t pro
       </prop>
       <tablerow>2</tablerow>
       <text>Canyon Colossus has ward {2} as long as it’s untapped. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Solemn Gate</name>
@@ -2162,7 +2162,7 @@ Whenever another creature you control enters, Outpost Warden gets +1/+1 until en
       <tablerow>2</tablerow>
       <text>Outpost Wayfinder has first strike as long as it’s your turn.
 Outpost Wayfinder enters with a +1/+1 counter if it wasn’t cast from your hand.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Arbiter of Tomorrows</name>
@@ -2192,7 +2192,7 @@ When Arbiter of Tomorrows enters, return another target nonland permanent you co
       </prop>
       <tablerow>2</tablerow>
       <text>When Lost Liege enters, untap another target creature you control.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Outpost Captain</name>
@@ -2285,7 +2285,7 @@ Projection {U} (You may cast this card for its projection cost if it isn’t pro
       <tablerow>2</tablerow>
       <text>When Expanse Wayfarer enters, you may draw a card. If you do, discard a card.
 1U: Expanse Wayfarer gains flying until end of turn.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Soulfire Prophet</name>
@@ -2540,7 +2540,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, put a 
       <set rarity="uncommon">CRO</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
+        <manacost>1RR</manacost>
         <cmc>3</cmc>
         <type>Creature - Elemental Minotaur </type>
         <maintype>Creature</maintype>
@@ -2572,7 +2572,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
         <colors>R</colors>
         <manacost>R</manacost>
         <cmc>1</cmc>
-        <type>Creature - Elemental Wizard </type>
+        <type>Creature - Elemental Shaman </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
@@ -2594,7 +2594,7 @@ Projection {R} (You may cast this card for its projection cost if it isn’t pro
       </prop>
       <tablerow>2</tablerow>
       <text>When Outpost Fireslinger enters, if it wasn’t cast from your hand, it deals 2 damage to target player or planeswalker.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Twinned Twines</name>
@@ -2668,7 +2668,7 @@ When Primal Sentry enters, you may mill two cards.
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more cards are put into your graveyard from anywhere other than the battlefield, put a +1/+1 counter on Oracle of Vigor.</text>
+      <text>Whenever one or more cards are put into your graveyard from your hand or library, put a +1/+1 counter on Oracle of Vigor.</text>
     </card>
     <card>
       <name>Unnatural Mistake</name>
@@ -2737,7 +2737,7 @@ Escape—3GG, Exile three other cards from your graveyard. (You may cast this ca
         <cmc>2</cmc>
         <type>Creature - Elf Scout </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Bygone Sentinel gets +1/+1 for each other creature you control and each other card you own in exile named Bygone Sentinel.
@@ -2757,7 +2757,7 @@ Escape—3GG, Exile three other cards from your graveyard. (You may cast this ca
       <tablerow>2</tablerow>
       <text>When Timepiece Trawler enters, if it wasn’t cast from your hand, surveil 1.
 {1}: Timepiece Trawler can’t be blocked this turn except by creatures with power 1 or less.
-Stutter (When this creature attacks, you may exile it at the end of combat. If you do, return it to the battlefield at your next end step.)</text>
+Stutter (When this creature deals combat damage to a player, you may exile it. If you do, return it to the battlefield.)</text>
     </card>
     <card>
       <name>Plains</name>

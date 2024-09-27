@@ -1424,7 +1424,7 @@
 	    {
 	        "name": "Master of Possibilities",
 	        "rarity": "uncommon",
-	        "mana_cost": "{G}{U}",
+	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Master of Possibilities.png"
@@ -2243,7 +2243,7 @@
 	    {
 	        "name": "Magmatic Minotaur",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Elemental Minotaur ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Magmatic Minotaur.png"
@@ -2262,7 +2262,7 @@
 	        "name": "Oracle of End Times",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Creature — Elemental Wizard ",
+	        "type": "Creature — Elemental Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Oracle of End Times.png"
 	        }
