@@ -106,7 +106,7 @@ Equip {2}</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{2}, {T}, Sacrifice Temporal Rift: Exile target creature you control, then return it to the battlefield tapped under its owner’s control.</text>
+{2}, {T}, Sacrifice Temporal Rift: Exile target creature you control, then return it to the battlefield tapped under its owner’s control. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Quiet Reflection</name>
@@ -611,6 +611,7 @@ Escape—2BB, Discard a card, Exile four other cards from your graveyard. (You m
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
+      <cipt>1</cipt>
       <text>Butcher of the Lost enters tapped.
 Escape—1B, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
@@ -866,8 +867,8 @@ Projection 2R (You may cast this card for its projection cost if it isn’t proj
       <set rarity="common">CRO</set>
       <prop>
         <colors>R</colors>
-        <manacost>5RR</manacost>
-        <cmc>7</cmc>
+        <manacost>6RR</manacost>
+        <cmc>8</cmc>
         <type>Creature - Dragon </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
@@ -928,8 +929,8 @@ Whenever one or more cards leave your graveyard, put a +1/+1 counter on Territor
       <set rarity="uncommon">CRO</set>
       <prop>
         <colors>G</colors>
-        <manacost>5G</manacost>
-        <cmc>6</cmc>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
@@ -1143,7 +1144,7 @@ When Cloudblazer enters, you gain 2 life and draw two cards.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you discard a card, each opponent loses 2 life and you gain 2 life.
+      <text>Whenever you discard one or more cards, each opponent loses 2 life and you gain 2 life.
 2UB: Draw a card, then discard a card.</text>
     </card>
     <card>
@@ -1241,14 +1242,14 @@ Whenever you mill one or more cards, you may exile a card milled this way and pu
       <set rarity="uncommon">CRO</set>
       <prop>
         <colors>UG</colors>
-        <manacost>1GU</manacost>
-        <cmc>3</cmc>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Paradox — Whenever Master of Possibilities enters or you cast a spell from anywhere other than your hand, reveal the top card of your library. If it’s a land, put it onto the battlefield tapped. Otherwise, you may put it into your graveyard.
+      <text>Whenever Master of Possibilities or another creature you control enters, if it escaped, return target nonland permanent to its owner’s hand.
 Escape—2GU, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
     <card>
@@ -1350,6 +1351,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Endless Horizon enters tapped.
 {T}: Add {U} or {R}.
 {1}, Discard Endless Horizon: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1378,6 +1380,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Forsaken Temple enters tapped.
 {T}: Add {W} or {B}.
 {1}, Discard Forsaken Temple: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1393,6 +1396,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Frozen Mire enters tapped.
 {T}: Add {U} or {B}.
 {1}, Discard Frozen Mire: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1408,6 +1412,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Glacial Shoreline enters tapped.
 {T}: Add {W} or {U}.
 {1}, Discard Glacial Shoreline: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1423,6 +1428,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Misty Marsh enters tapped.
 {T}: Add {G} or {U}.
 {1}, Discard Misty Marsh: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1438,6 +1444,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Primal Fields enters tapped.
 {T}: Add {B} or {R}.
 {1}, Discard Primal Fields: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1453,6 +1460,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Scattered Growth enters tapped.
 {T}: Add {G} or {W}.
 {1}, Discard Scattered Growth: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1468,6 +1476,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Shifting Crag enters tapped.
 {T}: Add {R} or {G}.
 {1}, Discard Shifting Crag: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1483,6 +1492,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Sunbaked Path enters tapped.
 {T}: Add {R} or {W}.
 {1}, Discard Sunbaked Path: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1498,6 +1508,7 @@ Trample
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
+      <cipt>1</cipt>
       <text>Undisturbed Bog enters tapped.
 {T}: Add {B} or {G}.
 {1}, Discard Undisturbed Bog: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
@@ -1558,7 +1569,8 @@ Stutter (When this creature deals combat damage to a player, you may exile it. I
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{2}, Exile Solemn Gate: Target player shuffles their graveyard into their library.
+      <text>When Solemn Gate enters, surveil 1.
+{2}, Exile Solemn Gate: Target player shuffles their graveyard into their library.
 {7}, Exile Solemn Gate: Exile target creature.</text>
     </card>
     <card>
@@ -1798,8 +1810,8 @@ Escape—2B, Sacrifice a creature. (You may cast this card from your graveyard f
       <set rarity="common">CRO</set>
       <prop>
         <colors>B</colors>
-        <manacost>5B</manacost>
-        <cmc>6</cmc>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
@@ -2214,8 +2226,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <set rarity="common">CRO</set>
       <prop>
         <colors>W</colors>
-        <manacost>4WW</manacost>
-        <cmc>6</cmc>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -2244,11 +2256,11 @@ When Scattered Sentinel enters, draw a card.</text>
       <set rarity="common">CRO</set>
       <prop>
         <colors>U</colors>
-        <manacost>3UU</manacost>
+        <manacost>4U</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2326,10 +2338,11 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
         <cmc>3</cmc>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
-        <pt>1/4</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Paradox — The first spell you cast from anywhere other than your hand each turn costs {1} less to cast.</text>
+      <text>Defender
+As long as there are five or more cards in your chronicle, Thawing Voidwalker can attack as though it didn’t have defender. (Your chronicle consists of up to one card you own of each mana value in exile or your graveyard.)</text>
     </card>
     <card>
       <name>Baneful Buck</name>
@@ -2343,6 +2356,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
+      <cipt>1</cipt>
       <text>Baneful Buck enters tapped.
 Whenever Baneful Buck enters or dies, you may mill two cards.</text>
     </card>
@@ -2943,6 +2957,19 @@ When Acolyte of Stars enters, you may mill two cards.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Teferi&apos;s Legacy</name>
+      <set>CRO</set>
+      <prop>
+        <colors>U</colors>
+        <type>Legendary Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You have no maximum hand size.
+At the beginning of each upkeep, draw a card.</text>
       <token>1</token>
     </card>
 

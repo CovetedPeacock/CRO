@@ -1199,7 +1199,7 @@
 	    {
 	        "name": "Magmatic Dragon",
 	        "rarity": "common",
-	        "mana_cost": "{5}{R}{R}",
+	        "mana_cost": "{6}{R}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Magmatic Dragon.png"
@@ -1235,7 +1235,7 @@
 	    {
 	        "name": "Against the Odds",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{G}",
+	        "mana_cost": "{6}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Against the Odds.png"
@@ -1424,7 +1424,7 @@
 	    {
 	        "name": "Master of Possibilities",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{U}",
+	        "mana_cost": "{G}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Master of Possibilities.png"
@@ -1784,7 +1784,7 @@
 	    {
 	        "name": "Smolder Out",
 	        "rarity": "common",
-	        "mana_cost": "{5}{B}",
+	        "mana_cost": "{6}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Smolder Out.png"
@@ -2045,7 +2045,7 @@
 	    {
 	        "name": "Scattered Sentinel",
 	        "rarity": "common",
-	        "mana_cost": "{4}{W}{W}",
+	        "mana_cost": "{5}{W}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Scattered Sentinel.png"
@@ -2063,7 +2063,7 @@
 	    {
 	        "name": "Perilous Explorer",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Perilous Explorer.png"
@@ -2508,6 +2508,15 @@
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi's Legacy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Legendary Token Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CovetedPeacock/CRO/main/CRO%20v2%20C-files/Teferi's Legacy.png"
 	        }
 	    }
 	]
